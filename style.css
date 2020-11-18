@@ -74,6 +74,14 @@ figure {
     
 }
 
+.tales {
+  width: 100%;
+}
+.carousel-inner{
+  width:100%;
+  max-height: 600px !important;
+}
+
 .social i {
     
 padding-left: 150px;
@@ -134,7 +142,13 @@ background: url("img/bg-1.png") no-repeat center center fixed
     background-size cover;
 }
 
+
+
 <style>
+
+
+
+
 .zoom {
   padding: 50px;
   background-color: green;
