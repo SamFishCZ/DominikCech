@@ -75,10 +75,10 @@ figure {
 }
 
 .tales {
-  width: 100%;
+  width: 100%; !important;
 }
 .carousel-inner{
-  width:100%;
+  width:100%; !important;
   max-height: 430px !important;
 }
 
