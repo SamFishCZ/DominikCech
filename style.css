@@ -26,6 +26,8 @@
 
 .bg-secondary{background-color: grey;}
 
+
+
 }
 /*---Firefox Bug Fix --*/
 .carousel-item {
@@ -35,6 +37,8 @@
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
+
+
 /*--- Fixed Background Image --*/
 figure {
   position: relative;
@@ -78,8 +82,8 @@ figure {
   width: 100%; !important;
 }
 .carousel-inner{
-  width:100%; !important;
-  max-height: 500px !important;
+  max-width:  width:100%; !important;
+  max-height: 1000px; !important;
 }
 
 
